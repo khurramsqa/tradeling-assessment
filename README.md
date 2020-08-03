@@ -35,4 +35,4 @@
    
 ## Challenges/Limitations:
 1. Amazon security forces to ask for OTP even if existing user is logged in multiple browsers.
-2. I did Amazaon scenario automation with existing account as for New account creation in Amazon I was associating gmail account but it rquires gmail api integration and automation in cypress. Its an exciting dimension with great challenges so at the moment I am only able to expose gmail api with cypress (Automation is yet to done and I am working on it whether my assignment accepted or rejected as its exciting learning opportunity).
+2. I did Amazaon scenario automation with existing account as for New account creation in Amazon I was associating gmail account but it rquires gmail api integration. Its an exciting dimension with great challenges so at the moment I am only able to expose gmail api with cypress (Automation is yet to done and I am working on it as I found it an exciting learning opportunity for myself).
