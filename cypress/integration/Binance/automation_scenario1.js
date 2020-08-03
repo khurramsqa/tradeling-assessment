@@ -38,13 +38,7 @@ describe('TESTING ASSIGNMENT 1 SCENARIO 1', () => {
             assert.notEqual(text,text2)
           });
 
-        /* cy.get('div').contains('Last Price').parent().parent().parent().parent().children('div').find('.css-ahynou').eq(0).children('div').eq(2).invoke('text').then((text) => {
-          cy.log('Price:' + text)
-          cy.wait(5000)
-          cy.get('div').contains('Last Price').parent().parent().parent().parent().children('div').find('.css-ahynou').eq(0).children('div').eq(2).invoke('text').then((text2) => {
-            cy.log('Updated Price' + text2)
-            assert.notEqual(text,text2)
-          }); */
+        
         });
 
         // Clear the last price on search box
