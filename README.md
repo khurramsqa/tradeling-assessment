@@ -2,7 +2,6 @@
 
 ## Pre-Req:
 1. Following softwares should be installed on to your machine else follow instructions as mentioned:
-
   1. Nodejs --> If not then please follow below steps:
     1. Navigate to https://nodejs.org/en/download/. 
     2. Click the Windows Installer button to download the latest default version. The Node.js installer includes the NPM package manager. 
@@ -32,10 +31,8 @@
    2. As the Testrunner window showing now try to execute the scenarios and see the results. Thanks!
 
 ## Manual Scenario Creation:
-   Tradelingassessment test cases.xlsx
+  For manual test cases please refer to the sheet: ---> Tradelingassessment test cases.xlsx
    
 ## Challenges/Limitations:
 1. Amazon security forces to ask for OTP even if existing user is logged in multiple browsers.
-2. I did Amazaon scenario automation with existing account as for New account creation in Amazon I was associating gmail account but it rquires gmail api integration and automation in cypress. Its an exciting dimension with great challenges so at the moment I am only able to expose gmail api with cypress (Automation is yet to done and I am working on it whether my assignment accepted or rejected as its exciting learning opportunity)
-
-Amazon security forces to ask for OTP even if existing user is logged in multiple browsers.
+2. I did Amazaon scenario automation with existing account as for New account creation in Amazon I was associating gmail account but it rquires gmail api integration and automation in cypress. Its an exciting dimension with great challenges so at the moment I am only able to expose gmail api with cypress (Automation is yet to done and I am working on it whether my assignment accepted or rejected as its exciting learning opportunity).
