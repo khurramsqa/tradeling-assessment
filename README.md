@@ -34,6 +34,6 @@
   For manual test cases please refer to the sheet: ---> Tradelingassessment test cases.xlsx
    
 ## Challenges/Limitations:
-1. I have hands on experience in Selenium but for this case Study I have to learn Cypress parallel to automate the given scenarios.
+1. Before starting this case study I didn't have prior experience in Cypress, Node Js and Java script so to automate this case study I try to learn all these tools parallel. Thanks for providing me the opportunity to learn all these tools and technologies irrespective of that whether I get selected or not.
 2. Amazon security forces to ask for OTP even if existing user is logged in multiple browsers.
 3. I did Amazaon scenario automation with existing account as for New account creation in Amazon I was associating gmail account but it rquires gmail api integration. Its an exciting dimension with great challenges so at the moment I am only able to expose gmail api with cypress (Automation is yet to done and I am working on it as I found it an exciting learning opportunity for myself).
