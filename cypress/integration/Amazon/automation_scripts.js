@@ -76,11 +76,11 @@ this.data=data
    4. Check the total number of results match the total displayed products */
 
       //Go to Categories list
-      cy.get('#nav-hamburger-menu').click() //Left side menu icon button
+      cy.get('#nav-hamburger-menu').wait(1000).click() //Left side menu icon button
       cy.wait(2000)
 
       //Choose category 'Smart Home'
-      cy.get('ul.hmenu-visible').contains('Smart Home').click() //select Smart Home option from dropdown menu option
+      cy.get('ul.hmenu-visible').wait(1000).contains('Smart Home').click() //select Smart Home option from dropdown menu option
       cy.wait(3000)
 
       //Chhose sub-category 'Televisions'
